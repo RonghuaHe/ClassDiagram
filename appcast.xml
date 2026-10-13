@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SourcePrism</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 13 Oct 2026 21:03:00 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/RonghuaHe/SourcePrism/releases/download/v1.0.0/SourcePrism-1.0.0.dmg" length="10740510" type="application/octet-stream" sparkle:edSignature="NEjzoJBY4/do7v9pX4Q56QZGtNkQLO+nEa6h1bgFt83UVVFIAvk+nGsygXdjd8Ib69NLIopCD299RbegL9pWCA=="/>
+        </item>
+    </channel>
+</rss>
